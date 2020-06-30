@@ -8,5 +8,5 @@ stg:
 
 prd:
   user: hoge
-  pass: "a#hoge"
+  pass: "#hoge"
 

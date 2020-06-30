@@ -22,9 +22,9 @@ stg:
 
 prd:
   user: hoge
-  pass: "a#hoge"
+  pass: "#hoge"
 
 {"dev"=>{"user"=>"hoge", "pass"=>nil},
  "stg"=>{"user"=>"hoge", "pass"=>"a#hoge"},
- "prd"=>{"user"=>"hoge", "pass"=>"a#hoge"}}
+ "prd"=>{"user"=>"hoge", "pass"=>"#hoge"}}
 ```

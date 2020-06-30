@@ -1,0 +1,12 @@
+dev:
+  user: hoge
+  pass: #hoge
+
+stg:
+  user: hoge
+  pass: a#hoge
+
+prd:
+  user: hoge
+  pass: "a#hoge"
+
